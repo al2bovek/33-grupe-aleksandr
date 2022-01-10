@@ -1,0 +1,35 @@
+body { margin: 0; background-color: #585858;
+       font-family: Verdana, Geneva, Tahoma, sans-serif; color: floralwhite;
+}
+header {
+    display:inline-block; width: 800px; margin-left: calc((100% - 800px)/2);
+    background-color: #585858; margin-top: 10px;
+}
+header > img { float: left; width: 90px; margin-top: 6px;
+}
+nav { float: right; font-size: 22px;
+}
+a{
+    color:floralwhite;
+    text-decoration: none;
+}
+
+main{ display:inline-block; width: 800px; margin-left: calc((100% - 800px)/2);
+      background-color: #585858; font-size: 30px;
+
+}
+div { 
+    
+}
+h1 {
+   font-size: 99px;
+   margin-top:100px;
+}
+p {
+    margin-top: 100px;
+    margin-left: 15px;
+
+}
+img {float: right;
+
+}

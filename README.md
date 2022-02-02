@@ -1,7 +1,7 @@
 # 33-grupe
  JS mokslas. Suvokimo formavimas <br>
  <br>
- Namu darbai:/n
+ Namu darbai:<br>
 https://al2bovek.github.io/33-grupe-aleksandr/2-serlokas <br>
 https://al2bovek.github.io/33-grupe-aleksandr/2-serlokas-mc <br>
 https://al2bovek.github.io/33-grupe-aleksandr/2-serlokas-variacijos <br>
